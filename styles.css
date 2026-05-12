@@ -20,6 +20,24 @@ body {
   overflow-x: hidden;
 }
 
+/* Redes Footer*/
+
+.footer-social {
+  margin: 10px 0;
+}
+
+.footer-social a {
+  color: #fff;
+  margin: 0 10px;
+  font-size: 18px;
+  transition: 0.3s;
+}
+
+
+.footer-social a:hover {
+  color: #00c853; /* verde tipo ciclismo */
+}
+
 /* ===================== NAVBAR ===================== */
 #navbar {
   position: fixed; top: 0; left: 0; right: 0; z-index: 1000;
